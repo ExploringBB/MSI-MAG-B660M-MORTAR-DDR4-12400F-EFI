@@ -12,3 +12,6 @@ Hackintosh with GPU (RX6650XT)
 | OC版本   | 0.8.4  |
 | MacOs   | Sequoia 15.4.1及以下  |
 | 目标机型   | MacPro7,1 |
+
+## 来源
+[EFI 参考](https://github.com/yzchan/MSI-MAG-B660M-MORTAR-DDR4-12600K-EFI)
