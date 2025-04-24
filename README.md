@@ -8,7 +8,7 @@ Hackintosh with GPU (RX6650XT)
 | 显卡   | RX 6650 XT  |
 | 内存   | DDR4 3600 8Gx2  |
 | 网卡   | Rtl  |
-| 硬盘   | NVME 致态7100*2  |
+| 硬盘   | NVME 致态TiPlus7100  |
 | OC版本   | 0.8.4  |
 | MacOs   | Sequoia 15.4.1及以下  |
 | 目标机型   | MacPro7,1 |
