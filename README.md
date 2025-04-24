@@ -3,7 +3,7 @@ Hackintosh with GPU (RX6650XT)
 ## 配置列表
 | 配置 | 型号 |
 |---------|--------|
-| CPU   | intel i5 12400F |
+| CPU   | intel i5 12400F / 12600K ( 或其他未测试12代i5 ) |
 | 主板   | MSI MAG B660M MORTAR DDR4  |
 | 显卡   | RX 6650 XT  |
 | 内存   | DDR4 3600 8Gx2  |
